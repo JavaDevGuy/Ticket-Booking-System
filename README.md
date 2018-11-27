@@ -1,2 +1,4 @@
 # Ticket-Booking-System
-A ticket booking system made in Java
+# Protect Status : Alpha V 0.1
+# Expect Bugs
+If found please report!!!
